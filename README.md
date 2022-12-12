@@ -1,3 +1,4 @@
+![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)
 <h1 align="center">Hi 👋, I'm Srikanth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
